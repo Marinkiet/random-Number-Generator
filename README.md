@@ -1,2 +1,2 @@
 # random-Number-Generator
-<h1>Link: https://marinkiet.github.io/random-Number-Generator/</h1>
+<h3>Link: https://marinkiet.github.io/random-Number-Generator/</h3>
